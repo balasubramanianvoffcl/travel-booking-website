@@ -25,9 +25,3 @@ Welcome to **Travel School**, a responsive travel booking website designed to pr
 - Modern web browser (Google Chrome, Firefox, Safari, or Edge).
 - Text editor (such as Visual Studio Code) if you wish to edit the code.
 
-### Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/travel-school.git
-   cd travel-school
